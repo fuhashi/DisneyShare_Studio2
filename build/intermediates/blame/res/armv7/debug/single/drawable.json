@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\gate_check.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\drawable\\gate_check.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_button_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\custom_prg_bar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable\\custom_prg_bar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_label_color.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_label_color.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\verify_checkmark.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_label_color.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_label_color.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_warning.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background_down.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background_up.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\button_compat_shape.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\button_compat_shape.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ua_iam_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\drawable\\ua_iam_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_picker_advanced_select_handle.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\bubble_arrow_up.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_picker_advanced_select_handle.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_menu_share_holo_light.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ondemand_overlay.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\baseapp_dl_btn.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable\\baseapp_dl_btn.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\bubble_arrow_up.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\autofill_chip_inset.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\autofill_chip_inset.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_button_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\gate_check.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable\\gate_check.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background_down.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\autofill_chip_inset.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\autofill_chip_inset.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background_up.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\custom_prg_bar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\drawable\\custom_prg_bar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\dropdown_popup_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\bubble.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_search.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_search.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\bubble.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_menu_share_holo_light.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\button_compat_shape.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\button_compat_shape.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\baseapp_dl_btn.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\drawable\\baseapp_dl_btn.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ic_warning.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_picker_border.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\verify_checkmark.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ua_iam_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\drawable\\ua_iam_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\color_picker_border.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\ondemand_overlay.9.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]

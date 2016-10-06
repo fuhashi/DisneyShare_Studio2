@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Disney Share</string>
+    <string name="msg_app_finish">アプリケーションを終了しますか？</string>
+    <string name="msg_yes">はい</string>
+    <string name="msg_cancel">キャンセル</string>
+
+    <string name="nav_home">ホーム</string>
+    <string name="nav_help">ヘルプ</string>
+    <string name="nav_quit">終了</string>
+
+</resources>

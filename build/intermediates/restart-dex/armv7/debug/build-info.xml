@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="15"
+    density="hdpi"
+    format="7"
+    timestamp="515961967518231"
+    token="-237449363264857427" >
+
+    <task
+        name="javac"
+        duration="4790" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1479" />
+    <task
+        name="verifier"
+        duration="617" />
+
+    <artifact
+        location="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\outputs\apk\DisneyShare_201608251755_urbancrosswalkTes-armv7-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="515961967518231" >
+        <artifact
+            location="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\outputs\apk\DisneyShare_201608251755_urbancrosswalkTes-armv7-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

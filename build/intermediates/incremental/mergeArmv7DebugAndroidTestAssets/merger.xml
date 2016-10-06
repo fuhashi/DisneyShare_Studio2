@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\crosswalk_work_20160823\DisneyShare_Studio2\src\androidTest\assets"/><source path="C:\crosswalk_work_20160823\DisneyShare_Studio2\build\generated\assets\shaders\androidTest\armv7\debug"/></dataSet><dataSet config="armv7"><source path="C:\crosswalk_work_20160823\DisneyShare_Studio2\src\androidTestArmv7\assets"/></dataSet></merger>

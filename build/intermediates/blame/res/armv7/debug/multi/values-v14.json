@@ -1,0 +1,2084 @@
+[
+    {
+        "outputFile": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endLine": 25,
+                    "endColumn": 24,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endLine": 25,
+                        "endColumn": 24,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endLine": 33,
+                    "endColumn": 24,
+                    "endOffset": 1442
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endLine": 33,
+                        "endColumn": 24,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1447,
+                    "endLine": 66,
+                    "endColumn": 24,
+                    "endOffset": 2895
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endLine": 66,
+                        "endColumn": 24,
+                        "endOffset": 2895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2900,
+                    "endLine": 70,
+                    "endColumn": 24,
+                    "endOffset": 3116
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2900,
+                        "endLine": 70,
+                        "endColumn": 24,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3121,
+                    "endLine": 74,
+                    "endColumn": 24,
+                    "endOffset": 3274
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 74,
+                        "endColumn": 24,
+                        "endOffset": 3274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3279,
+                    "endLine": 81,
+                    "endColumn": 24,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3279,
+                        "endLine": 81,
+                        "endColumn": 24,
+                        "endOffset": 3616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 57,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3621,
+                        "endColumn": 57,
+                        "endOffset": 3674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 53,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3679,
+                        "endColumn": 53,
+                        "endOffset": 3728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 51,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3733,
+                        "endColumn": 51,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 59,
+                    "endOffset": 3840
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 59,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3845,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 4116
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4121,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 4541
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4546,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4270,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 4901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 5645
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4906,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5650,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 6127
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5374,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6132,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 6338
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endLine": 123,
+                        "endColumn": 12,
+                        "endOffset": 6062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6343,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6067,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 7276
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 6619,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 7000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7281,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 7791
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7005,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 7515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7796,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8314
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 7520,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 8038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8319,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 8973
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8043,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 8697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 8978,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 9431
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 8702,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 9155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9436,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 9988
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9160,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 9712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 9993,
+                    "endColumn": 99,
+                    "endOffset": 10088
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 9717,
+                        "endColumn": 99,
+                        "endOffset": 9812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10093,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 10912
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 9817,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 10636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 10917,
+                    "endColumn": 106,
+                    "endOffset": 11019
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 10641,
+                        "endColumn": 106,
+                        "endOffset": 10743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 11024,
+                    "endColumn": 103,
+                    "endOffset": 11123
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 10748,
+                        "endColumn": 103,
+                        "endOffset": 10847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11128,
+                    "endColumn": 105,
+                    "endOffset": 11229
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 10852,
+                        "endColumn": 105,
+                        "endOffset": 10953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11234,
+                    "endColumn": 112,
+                    "endOffset": 11342
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 10958,
+                        "endColumn": 112,
+                        "endOffset": 11066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11347,
+                    "endColumn": 70,
+                    "endOffset": 11413
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11418,
+                    "endColumn": 82,
+                    "endOffset": 11496
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11501,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 11906
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 11911,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 12328
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 12333,
+                    "endColumn": 119,
+                    "endOffset": 12448
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12453,
+                    "endColumn": 62,
+                    "endOffset": 12511
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 12516,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 12665
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 12670,
+                    "endColumn": 62,
+                    "endOffset": 12728
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 12733,
+                    "endColumn": 131,
+                    "endOffset": 12860
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12865,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 13061
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 11071,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 11267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 13066,
+                    "endColumn": 139,
+                    "endOffset": 13201
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 11272,
+                        "endColumn": 139,
+                        "endOffset": 11407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 13206,
+                    "endColumn": 157,
+                    "endOffset": 13359
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 11412,
+                        "endColumn": 157,
+                        "endOffset": 11565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 13364,
+                    "endColumn": 118,
+                    "endOffset": 13478
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 11570,
+                        "endColumn": 118,
+                        "endOffset": 11684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 13483,
+                    "endColumn": 141,
+                    "endOffset": 13620
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 11689,
+                        "endColumn": 141,
+                        "endOffset": 11826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 13625,
+                    "endColumn": 129,
+                    "endOffset": 13750
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 11831,
+                        "endColumn": 129,
+                        "endOffset": 11956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 13755,
+                    "endColumn": 123,
+                    "endOffset": 13874
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 11961,
+                        "endColumn": 123,
+                        "endOffset": 12080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 13879,
+                    "endColumn": 129,
+                    "endOffset": 14004
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 12085,
+                        "endColumn": 129,
+                        "endOffset": 12210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 14009,
+                    "endColumn": 131,
+                    "endOffset": 14136
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 12215,
+                        "endColumn": 131,
+                        "endOffset": 12342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 14141,
+                    "endColumn": 121,
+                    "endOffset": 14258
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 12347,
+                        "endColumn": 121,
+                        "endOffset": 12464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 14263,
+                    "endColumn": 121,
+                    "endOffset": 14380
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 121,
+                        "endOffset": 12586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 14385,
+                    "endColumn": 123,
+                    "endOffset": 14504
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 12591,
+                        "endColumn": 123,
+                        "endOffset": 12710
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endLine": 25,
+                    "endColumn": 24,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endLine": 25,
+                        "endColumn": 24,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endLine": 33,
+                    "endColumn": 24,
+                    "endOffset": 1442
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endLine": 33,
+                        "endColumn": 24,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1447,
+                    "endLine": 66,
+                    "endColumn": 24,
+                    "endOffset": 2895
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endLine": 66,
+                        "endColumn": 24,
+                        "endOffset": 2895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2900,
+                    "endLine": 70,
+                    "endColumn": 24,
+                    "endOffset": 3116
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2900,
+                        "endLine": 70,
+                        "endColumn": 24,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3121,
+                    "endLine": 74,
+                    "endColumn": 24,
+                    "endOffset": 3274
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 74,
+                        "endColumn": 24,
+                        "endOffset": 3274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3279,
+                    "endLine": 81,
+                    "endColumn": 24,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3279,
+                        "endLine": 81,
+                        "endColumn": 24,
+                        "endOffset": 3616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 57,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3621,
+                        "endColumn": 57,
+                        "endOffset": 3674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 53,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3679,
+                        "endColumn": 53,
+                        "endOffset": 3728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 51,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3733,
+                        "endColumn": 51,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 59,
+                    "endOffset": 3840
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 59,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3845,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 4116
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4121,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 4541
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4546,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4270,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 4901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 5645
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4906,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5650,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 6127
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5374,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6132,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 6338
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endLine": 123,
+                        "endColumn": 12,
+                        "endOffset": 6062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6343,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6067,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 7276
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 6619,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 7000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7281,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 7791
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7005,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 7515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7796,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8314
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 7520,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 8038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8319,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 8973
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8043,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 8697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 8978,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 9431
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 8702,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 9155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9436,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 9988
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9160,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 9712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 9993,
+                    "endColumn": 99,
+                    "endOffset": 10088
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 9717,
+                        "endColumn": 99,
+                        "endOffset": 9812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10093,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 10912
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 9817,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 10636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 10917,
+                    "endColumn": 106,
+                    "endOffset": 11019
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 10641,
+                        "endColumn": 106,
+                        "endOffset": 10743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 11024,
+                    "endColumn": 103,
+                    "endOffset": 11123
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 10748,
+                        "endColumn": 103,
+                        "endOffset": 10847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11128,
+                    "endColumn": 105,
+                    "endOffset": 11229
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 10852,
+                        "endColumn": 105,
+                        "endOffset": 10953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11234,
+                    "endColumn": 112,
+                    "endOffset": 11342
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 10958,
+                        "endColumn": 112,
+                        "endOffset": 11066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11347,
+                    "endColumn": 70,
+                    "endOffset": 11413
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11418,
+                    "endColumn": 82,
+                    "endOffset": 11496
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11501,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 11906
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 11911,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 12328
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 12333,
+                    "endColumn": 119,
+                    "endOffset": 12448
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12453,
+                    "endColumn": 62,
+                    "endOffset": 12511
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 12516,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 12665
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 12670,
+                    "endColumn": 62,
+                    "endOffset": 12728
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 12733,
+                    "endColumn": 131,
+                    "endOffset": 12860
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12865,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 13061
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 11071,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 11267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 13066,
+                    "endColumn": 139,
+                    "endOffset": 13201
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 11272,
+                        "endColumn": 139,
+                        "endOffset": 11407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 13206,
+                    "endColumn": 157,
+                    "endOffset": 13359
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 11412,
+                        "endColumn": 157,
+                        "endOffset": 11565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 13364,
+                    "endColumn": 118,
+                    "endOffset": 13478
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 11570,
+                        "endColumn": 118,
+                        "endOffset": 11684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 13483,
+                    "endColumn": 141,
+                    "endOffset": 13620
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 11689,
+                        "endColumn": 141,
+                        "endOffset": 11826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 13625,
+                    "endColumn": 129,
+                    "endOffset": 13750
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 11831,
+                        "endColumn": 129,
+                        "endOffset": 11956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 13755,
+                    "endColumn": 123,
+                    "endOffset": 13874
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 11961,
+                        "endColumn": 123,
+                        "endOffset": 12080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 13879,
+                    "endColumn": 129,
+                    "endOffset": 14004
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 12085,
+                        "endColumn": 129,
+                        "endOffset": 12210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 14009,
+                    "endColumn": 131,
+                    "endOffset": 14136
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 12215,
+                        "endColumn": 131,
+                        "endOffset": 12342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 14141,
+                    "endColumn": 121,
+                    "endOffset": 14258
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 12347,
+                        "endColumn": 121,
+                        "endOffset": 12464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 14263,
+                    "endColumn": 121,
+                    "endOffset": 14380
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 121,
+                        "endOffset": 12586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 14385,
+                    "endColumn": 123,
+                    "endOffset": 14504
+                },
+                "from": {
+                    "file": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 12591,
+                        "endColumn": 123,
+                        "endOffset": 12710
+                    }
+                }
+            }
+        ]
+    }
+]

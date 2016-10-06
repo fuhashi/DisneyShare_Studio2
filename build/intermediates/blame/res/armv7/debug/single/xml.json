@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\xml\\ua_notification_buttons.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\xml\\ua_notification_buttons.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\xml\\ua_notification_buttons.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\xml\\ua_notification_buttons.xml"
+    }
+]

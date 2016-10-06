@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

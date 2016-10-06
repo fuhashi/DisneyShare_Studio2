@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_advanced_component.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_dialog_title.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\activity_main.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\multi_field_time_picker_dialog.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_advanced_component.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\autofill_keyboard_accessory_icon.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\autofill_keyboard_accessory_icon.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\ua_activity_landing_page.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\layout\\ua_activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\date_time_suggestion.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\two_field_date_picker.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_dialog_content.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\activity_main.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\autofill_keyboard_accessory_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\date_time_picker_dialog.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\ad_banner.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\layout\\ad_banner.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_dialog_title.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\baseappdl_main.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\layout\\baseappdl_main.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\autofill_keyboard_accessory_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\validation_message_bubble.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\color_picker_dialog_content.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\two_field_date_picker.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\autofill_keyboard_accessory_icon.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\autofill_keyboard_accessory_icon.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\baseappdl_main.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\layout\\baseappdl_main.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\date_time_suggestion.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\multi_field_time_picker_dialog.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\ad_banner.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\res\\layout\\ad_banner.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\validation_message_bubble.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\date_time_picker_dialog.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\ua_activity_landing_page.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\layout\\ua_activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\res\\merged\\armv7\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_Studio2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    }
+]

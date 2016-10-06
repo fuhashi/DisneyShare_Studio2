@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848764362476",
+    "firebase_url": "https://urbantesproject.firebaseio.com",
+    "project_id": "urbantesproject",
+    "storage_bucket": "urbantesproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848764362476:android:95ff2e91ab6add51",
+        "android_client_info": {
+          "package_name": "jp.co.disney.apps.dm.disneyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848764362476-kv9fpn2cjvgavnievvead6346gt35jr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.disney.apps.dm.disneyshare",
+            "certificate_hash": "FF32C8E29AB0D2AE7F87081F5677A02AD1F133AC"
+          }
+        },
+        {
+          "client_id": "848764362476-toau4o23ekg75guamqggovqd89vgnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1x3ZY0JaU6YNrwp0hly4RU-xOv_dURR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848764362476-toau4o23ekg75guamqggovqd89vgnoa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

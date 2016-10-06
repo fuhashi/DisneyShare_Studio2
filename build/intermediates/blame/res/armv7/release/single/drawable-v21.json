@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\button_borderless_compat.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable-v21\\button_borderless_compat.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\ua_item_mc_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\drawable-v21\\ua_item_mc_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\button_compat.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\19.49.514.5\\res\\drawable-v21\\button_compat.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\ua_iam_background.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.2.5\\res\\drawable-v21\\ua_iam_background.xml"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

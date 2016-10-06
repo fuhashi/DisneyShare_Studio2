@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 25.1.7">
+
+    <issue
+        id="ValidFragment"
+        severity="Fatal"
+        message="This fragment inner class should be static (jp.co.disney.apps.dm.disneyshare.MainActivity.MainFragmentDialog)"
+        category="Correctness"
+        priority="6"
+        summary="Fragment not instantiatable"
+        explanation="From the Fragment documentation:
+*Every* fragment must have an empty constructor, so it can be instantiated when restoring its activity&apos;s state. It is strongly recommended that subclasses do not have other constructors with parameters, since these constructors will not be called when the fragment is re-instantiated; instead, arguments can be supplied by the caller with `setArguments(Bundle)` and later retrieved by the Fragment with `getArguments()`."
+        url="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        urls="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        errorLine1=" public class MainFragmentDialog extends DialogFragment {"
+        errorLine2="              ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\src\jp\co\disney\apps\dm\disneyshare\MainActivity.java"
+            line="1827"
+            column="15"/>
+    </issue>
+
+</issues>

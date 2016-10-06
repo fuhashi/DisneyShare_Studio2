@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-core-utils-24.2.0_12f4905bead0cff8c7054c1e4d5bd2adab35e7cb.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\internal_impl-24.2.0_e1556214eed2ec871db5ce3097171feeeef9bc78.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-animated-vector-drawable-24.2.0_ea49ce4003c95f0cd20d6233aaa45d740f5db371.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\internal_impl-24.2.0_ffa4e8da0d78b7f851cc94be932dd47a44ea27bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\hashimoto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\support-annotations-24.2.0_bae549d3007a1a81b08e1a247a794834acd51b23.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-fragment-24.2.0_ab5e6aeae565145fb8e3c3072b77dbffd2849fa9.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-basement-9.0.2_e614e3f9f002912b7b3ae47fcbdc56d503fa1ae2.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-gcm-9.0.2_6041768267089ee388378eaf3f17fc49504a5840.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\libs\admsAppLibrary.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bb8be78f310ab02351f39a4a99e902abdc4feea8">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\admsAppLibrary_e2b6217cba13a4ee98ce48b2167edc8767441722.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-v4-24.2.0_54996235d419c00fbda8726eab787a77c34af380.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-media-compat-24.2.0_9a08cc62abc00a90a6a82f6791aa2610e1683c0f.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\internal_impl-24.2.0_e65d226583339d4e7d665257badfa6020758a109.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-iid-9.0.2_201e75d66b775184dd6c75d4dbddab7fb05ddd84.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-appindexing-9.0.2_2eb792083a41d02b4b40a31336e200992beb574a.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-location-9.0.2_c6e1925dad35f04d597f1e81e1eb403f530424e8.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-tasks-9.0.2_376ed4d7eeb64a40229cc94baf7549afc7376a36.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-appcompat-v7-24.2.0_0bda6c5b15a5064f7646607555c154dd18e48e14.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\internal_impl-24.2.0_bf909d1ec53e906f1d001c901af47bcb04b8165d.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-base-9.0.2_20b6880bd9bc76e7246f4d384c17988ba3f22f74.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.2.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b9335021695eff057e9fbdfa23017f17e97042d">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.urbanairship.android-urbanairship-sdk-7.2.5_44b05908a9b526ab412215dca8a43a5add3b9468.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-vector-drawable-24.2.0_35c54ab5cd0c1124aac20130476ce84c88fc90bf.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.firebase-firebase-common-9.0.2_21730d926f32f01bd47cae05c0975543837b824a.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library\19.49.514.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="84ad9094783ccad25ecd152c31d635c6e426c3a4">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\org.xwalk-xwalk_core_library-19.49.514.5_42bf256ddebb0e7489c7a80f497babcae7b8e118.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-core-ui-24.2.0_b7cb637db86073186bc1aa52d6533bb0e213b360.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.google.android.gms-play-services-maps-9.0.2_bf3bfb55b9e75c0989f17bd357fccbce5428e6ae.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\internal_impl-24.2.0_658e00f09266aa9bec77ea0c35121d063335b218.jar" />
+    </item>
+    <item
+        jar="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\crosswalk_work_20160823\DisneyShare_201608251755_urbancrosswalkTes\build\intermediates\pre-dexed\armv7\release\com.android.support-support-compat-24.2.0_bd6925ac8c4ce41197b3b324da6450011c2db829.jar" />
+    </item>
+
+</items>

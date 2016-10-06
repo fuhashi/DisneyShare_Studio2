@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="android:Theme.Holo.Dialog">
+    <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+    <item name="android:windowBackground">@color/dialogTransparent</item>
+    <item name="android:textColorPrimary">#FFFFFF</item>
+    <item name="android:backgroundDimEnabled">false</item>
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:textSize">12sp</item>
+    </style>
+    
+    <style name="CustomAlertDialogStyle">
+    <item name="android:bottomBright">@color/dialogTransparent</item>
+    <item name="android:bottomDark">@color/dialogTransparent</item>
+    <item name="android:bottomMedium">@color/dialogTransparent</item>
+    <item name="android:centerBright">@color/dialogTransparent</item>
+    <item name="android:centerDark">@color/dialogTransparent</item>
+    <item name="android:centerMedium">@color/dialogTransparent</item>
+    <item name="android:fullBright">@color/dialogTransparent</item>
+    <item name="android:fullDark">@color/dialogTransparent</item>
+    <item name="android:topBright">@color/dialogTransparent</item>
+    <item name="android:topDark">@color/dialogTransparent</item>
+	</style>
+</resources>

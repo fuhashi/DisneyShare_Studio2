@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  	<string name="URL">http://aka-spcd.disney.co.jp/SP/CA/Prod/Base/</string>
+	<string name="PKG">jp.co.disney.apps.base.disneymarketapp</string>
+	<string name="baseapp_dl_txt">本アプリをご利用いただくには「Disneyマーケット」アプリが必要です。\n下記「ダウンロード」ボタンより「Disneyマーケット」アプリをダウンロード／インストールください。	</string>
+	<string name="baseapp_dl_dialog_title">Downloading...</string>
+	<string name="baseapp_dl_stop">通信エラーが発生しました。通信環境の良いところで再度ご利用ください。</string>
+	<string name="baseapp_dl_error">ディズニーマーケットのダウンロード処理でエラーが発生しました。しばらく時間をおいてから再度アクセスしてください。</string>
+    
+	<string name="invalid_app_fig1">通信を有効にして再度起動してください</string>
+	<string name="invalid_app_fig2">会員登録・ログインをして再度起動してください</string>
+	<string name="invalid_app_fig3">Disneyマーケットを有効にして再度起動してください</string>
+	<string name="invalid_app_fig4">招待を受けました。\n参加するには、メンバー登録が必須となります。\n招待を受けますか？</string>
+	<string name="invalid_app_fig5">「ゲストとしてShare利用を促す（APKのアンインストール）」もしくは「課金を促す」</string>
+	
+	<string name="for_invitation_dialog_btn1">登録・ログイン</string>
+<!-- 	<string name="for_invitation_dialog_btn2">ログイン</string> -->
+	<string name="for_invitation_dialog_btn3">招待を受けない</string>
+			
+</resources>

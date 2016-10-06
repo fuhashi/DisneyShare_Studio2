@@ -1,0 +1,205 @@
+////2APK出力対応
+//ext.cdvBuildMultipleApks = false // 40MB大きくなるけど、一つAPK生成できる。true　にすると、二つAPKになる
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+//        classpath 'com.android.tools.build:gradle:0.12.+'
+        classpath 'com.android.tools.build:gradle:2.1.3'
+
+    }
+
+}
+apply plugin: 'com.android.application'
+
+android {
+//    compileSdkVersion 22
+//    buildToolsVersion "23.0.2"
+    compileSdkVersion 24
+    buildToolsVersion "23.0.2"
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets', 'src/main/assets', 'src/jp.co.disney.apps.dm.disneyshare/', 'src/assets/', 'src/main/assets/', 'src/jp/co/disney/apps/dm/disneyshare/assets/']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+
+////        //2APK出力対応
+//        productFlavors {
+//            armv7 {
+//                    versionCode defaultConfig.versionCode + 2
+//                ndk {
+//                    abiFilters "armeabi-v7a", ""
+//                }
+//            }
+//            x86 {
+//                versionCode defaultConfig.versionCode + 4
+//                ndk {
+//                    abiFilters "x86", ""
+//                }
+//            }
+//        }
+//        //2APK出力対応
+//        dexOptions {
+//            javaMaxHeapSize "4g"
+//        }
+//        defaultConfig {
+//            multiDexEnabled true
+//        }//2APK出力対応
+
+    }
+
+    lintOptions {
+        abortOnError false
+//        //2APK出力対応
+//        checkReleaseBuilds false // cdvBuildMultipleApks=trueの場合、release APK作成ため
+    }
+    buildTypes {
+        release {
+            debuggable false // リリースモード
+            zipAlignEnabled true   // zip圧縮を行うか？
+//            minifyEnabled true   // プロガードを実行するか？
+//            proguardFile getDefaultProguardFile('proguard.txt') // プロガード実行に利用する設定ファイル
+//            signingConfig signingConfigs.release // リリース用のkeystoreを利用
+        }
+
+        debug {
+            debuggable true // デバッグモード
+            zipAlignEnabled true // zip圧縮を行う
+//            minifyEnabled false // プロガードを実行しない
+//            signingConfig signingConfigs.debug // デバッグ用のkeystoreを利用
+        }
+    }
+
+////        //2APK出力対応
+    productFlavors {
+        x86 {
+            ndk {
+                abiFilter "x86"
+            }
+        }
+//        mips {
+//            ndk {
+//                abiFilter "mips"
+//            }
+//        }
+        armv7 {
+            ndk {
+                abiFilter "armeabi-v7a"
+            }
+        }
+//        arm {
+//            ndk {
+//                abiFilter "armeabi"
+//            }
+//        }
+//        fat
+    }
+
+    // Urban Airship
+    defaultConfig {
+//        applicationId "com.example.application"
+        applicationId "jp.co.disney.apps.dm.disneyshare"
+
+    }
+
+//    packagingOptions {
+//        exclude 'assets/airshipconfig.properties'
+//    }
+}//android
+
+repositories {
+    maven {
+        url 'https://download.01.org/crosswalk/releases/crosswalk/android/maven2'
+//        url 'https://download.01.org/crosswalk/releases/crosswalk-lite/android/maven2'
+    }
+    maven {
+        url 'http://dl.bintray.com/urbanairship/android'
+//        url  "https://urbanairship.bintray.com/android"
+    }
+}
+
+dependencies {
+//    compile fileTree(dir: 'libs', include: '*.jar')
+
+    ////        //crosswalk用追加
+////        // 追加②
+////        compile 'org.xwalk:xwalk_core_library:20.50.533.12'
+//    compile fileTree(dir: 'libs', include: ['*.jar'])
+////    compile 'org.xwalk:xwalk_core_library:17.46.448.10'
+//    compile 'org.xwalk:xwalk_core_library:20.50.533.12'
+////    testCompile 'junit:junit:4.12'
+//    compile 'com.android.support:appcompat-v7:23.2.0'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+//    testCompile 'junit:junit:4.12'
+//    compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'com.android.support:appcompat-v7:24.+'
+//    compile 'org.xwalk:xwalk_core_library:10.39.235.15'
+//    compile 'org.xwalk:xwalk_core_library:20.50.533.12'
+    compile 'org.xwalk:xwalk_core_library:19.49.514.5'//taihi
+//    compile 'org.xwalk:xwalk_core_library_canary:17.46.460.1'//lite_test
+//2APK出力対応
+//    compile 'com.android.support:multidex:1.0.0'
+
+    // Urban Airship SDK
+    compile 'com.urbanairship.android:urbanairship-sdk:7.2.+'
+//    compile 'com.urbanairship.android:urbanairship-sdk:7.1.+'
+//    compile 'com.urbanairship.android:urbanairship-sdk:7.2.0'
+//    // Recommended for in-app messaging
+//    compile 'com.android.support:cardview-v7:23.4.0'
+//    compile 'com.android.support:cardview-v7:23.3.0'
+    // Recommended for location services
+    compile 'com.google.android.gms:play-services-location:9.0.2'
+    compile 'com.google.android.gms:play-services-appindexing:9.0.2'
+//    compile 'com.google.android.gms:play-services-location:8.4.0'
+}
+
+//android {
+////    compileSdkVersion 22
+////    buildToolsVersion "23.0.2"
+//    compileSdkVersion 24
+//    buildToolsVersion "23.0.2"
+//
+//    sourceSets {
+//        main {
+//            manifest.srcFile 'AndroidManifest.xml'
+//            java.srcDirs = ['src']
+//            resources.srcDirs = ['src']
+//            aidl.srcDirs = ['src']
+//            renderscript.srcDirs = ['src']
+//            res.srcDirs = ['res']
+//            assets.srcDirs = ['assets']
+//        }
+//
+//        // Move the tests to tests/java, tests/res, etc...
+//        instrumentTest.setRoot('tests')
+//
+//        // Move the build types to build-types/<type>
+//        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+//        // This moves them out of them default location under src/<type>/... which would
+//        // conflict with src/ being used by the main source set.
+//        // Adding new build types or product flavors should be accompanied
+//        // by a similar customization.
+//        debug.setRoot('build-types/debug')
+//        release.setRoot('build-types/release')
+//    }
+//}

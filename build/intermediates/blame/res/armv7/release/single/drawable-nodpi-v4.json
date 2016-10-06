@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-nodpi-v4\\baseappdl_btn_on.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable-nodpi\\baseappdl_btn_on.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-nodpi-v4\\baseappdl_header.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable-nodpi\\baseappdl_header.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-nodpi-v4\\baseappdl_btn_off.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable-nodpi\\baseappdl_btn_off.png"
+    },
+    {
+        "merged": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\build\\intermediates\\res\\merged\\armv7\\release\\drawable-nodpi-v4\\baseappdl_footer.png",
+        "source": "C:\\crosswalk_work_20160823\\DisneyShare_201608251755_urbancrosswalkTes\\res\\drawable-nodpi\\baseappdl_footer.png"
+    }
+]
