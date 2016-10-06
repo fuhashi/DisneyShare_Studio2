@@ -11,7 +11,7 @@ public class DebugLog {
     }
 
 //	private static boolean isVisible = false;//TODO リリース時はfalse
-    private static boolean isVisible = true;///TODO リリース時はfalse
+    private static boolean isVisible = true;//TODO リリース時はfalse
     public final int D = 0, I =1, E = 2;//とりあえずd,i,e
 
 //	public void setVisible(boolean b){
